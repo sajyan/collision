@@ -15,8 +15,8 @@
 
 <style type="text/css">
 p {
-color: #0000ff;
-font-size: 1.5em;
+color: #fffafa;
+font-size: 2em;
 }
 
 
@@ -140,7 +140,7 @@ width: 800px;
 
 
 <p>JAFのHPにこの現象の説明がありました。</p>
-<a href="20230316_005.png" data-lightbox="abc"><img src="20230316_005.png" alt="サンプル画像" width="900" /></a>
+<a href="20230316_005.png" data-lightbox="abc"><img src="20230316_005.png" alt="サンプル画像" width="900" /></a><br>
 <a href="https://jaf.or.jp/common/kuruma-qa/category-accident/subcategory-counterplan/faq161">JAF,HPリンク</a>
 
 
