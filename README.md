@@ -143,6 +143,8 @@ width: 800px;
 <a href="20230316_005.png" data-lightbox="abc"><img src="20230316_005.png" alt="サンプル画像" width="900" /></a><br>
 <h1><a href="https://jaf.or.jp/common/kuruma-qa/category-accident/subcategory-counterplan/faq161">JAF,HPリンク</a></h1>
 
+<h1><span class="yellow"><marquee behavior="alternate">!!! 皆様も田んぼの中の見通しの良い交差点では、お気をつけて !!!</marquee></span></h1>	
+
 
 <!--本体はここまで-->
 
