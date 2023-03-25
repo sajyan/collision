@@ -129,7 +129,9 @@ width: 800px;
 <a href="20230316_003.png" data-lightbox="abc"><img src="20230316_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20230316_004.png" data-lightbox="abc"><img src="20230316_004.png" alt="サンプル画像" width="900" /></a>
 
-<p>GoProで動画が撮れてましたので、YouTubeに挙げました。</p>
+<p>GoProで動画が撮れてましたので、YouTubeに挙げました。<br>
+今回、こちらからは相手車が見えていました。<br>
+止まる気配が全くないのが分かったので、事故回避できています。</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBm2HzGe6rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
