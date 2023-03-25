@@ -123,18 +123,20 @@ width: 800px;
 <!--流れ文字の挿入例-->
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/16 見通しの良い交差点での衝突回避 !!!</marquee></span></h1>	
 
-<p>田園地帯、見通しの良い交差点ですが、同じ速度で近づいていくと、相手が見えなくなる現象があります。<br>発生場所</p>
-<a href="20230316_001.png" data-lightbox="abc"><img src="20230316_001.png" alt="サンプル画像" width="900" /></a>
-<a href="20230316_002.png" data-lightbox="abc"><img src="20230316_002.png" alt="サンプル画像" width="900" /></a>
+<!--ここから下が、本体部分-->
+<p>田園地帯、見通しの良い交差点ですが、同じ速度で近づいていくと、相手が見えなくなる現象があります。<br>発生場所はJR岡本駅の北東部田園地帯</p>
+
 <a href="20230316_003.png" data-lightbox="abc"><img src="20230316_003.png" alt="サンプル画像" width="900" /></a>
 <a href="20230316_004.png" data-lightbox="abc"><img src="20230316_004.png" alt="サンプル画像" width="900" /></a>
 
-
-
-<!--ここから下が、本体部分-->
 <p>GoProで動画が撮れてましたので、YouTubeに挙げました。</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WBm2HzGe6rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>相手側の道路は一時停止ですが、路面ペイントは消えかかってます。</p>
+<a href="20230316_001.png" data-lightbox="abc"><img src="20230316_001.png" alt="サンプル画像" width="900" /></a>
+<p>ちょっと手前の電柱に止まれの標識が付いてました。</p>
+<a href="20230316_002.png" data-lightbox="abc"><img src="20230316_002.png" alt="サンプル画像" width="900" /></a>
 
 <!--本体はここまで-->
 
