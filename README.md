@@ -138,6 +138,11 @@ width: 800px;
 <p>ちょっと手前の電柱に止まれの標識が付いてました。</p>
 <a href="20230316_002.png" data-lightbox="abc"><img src="20230316_002.png" alt="サンプル画像" width="900" /></a>
 
+
+<p>JAFのHPにこの現象の説明がありました。</p>
+<a href="https://jaf.or.jp/common/kuruma-qa/category-accident/subcategory-counterplan/faq161" data-lightbox="abc"><img src="20230316_005.png" alt="サンプル画像" width="900" /></a>
+
+
 <!--本体はここまで-->
 
 
