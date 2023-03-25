@@ -124,27 +124,17 @@ width: 800px;
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023/03/16 見通しの良い交差点での衝突回避 !!!</marquee></span></h1>	
 
 <p>田園地帯、見通しの良い交差点ですが、同じ速度で近づいていくと、相手が見えなくなる現象があります。<br>発生場所</p>
-<a href="20230316_001.JPG" data-lightbox="abc"><img src="20230316_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230316_002.JPG" data-lightbox="abc"><img src="20230316_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20230316_003.JPG" data-lightbox="abc"><img src="20230316_003.JPG" alt="サンプル画像" width="900" /></a>
-	
-
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022/04/19 決算・予算報告など !!!</marquee></span></h1>
+<a href="20230316_001.png" data-lightbox="abc"><img src="20230316_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20230316_002.png" data-lightbox="abc"><img src="20230316_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20230316_003.png" data-lightbox="abc"><img src="20230316_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20230316_004.png" data-lightbox="abc"><img src="20230316_004.png" alt="サンプル画像" width="900" /></a>
 
 
-<!--ここから下が、本体部分--><!--
-<br><p>じゅりちゃんの50Freeから、赤羽さんの200Freeまで、<br>気がついたものだけ動画撮りました。<br>撮り逃してたら、ごめんなさいです m(_ _)m<br>
-動画は全て限定公開状態ですので、検索しても出て来ません。<br>このリンクからしか見えませんのでご安心を。</p>-->
 
-<a href="20220419_001.JPG" data-lightbox="abc"><img src="20220419_001.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_002.JPG" data-lightbox="abc"><img src="20220419_002.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_003.JPG" data-lightbox="abc"><img src="20220419_003.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_004.JPG" data-lightbox="abc"><img src="20220419_004.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_005.JPG" data-lightbox="abc"><img src="20220419_005.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_006.JPG" data-lightbox="abc"><img src="20220419_006.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_007.JPG" data-lightbox="abc"><img src="20220419_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20220419_008.JPG" data-lightbox="abc"><img src="20220419_008.JPG" alt="サンプル画像" width="900" /></a>
+<!--ここから下が、本体部分-->
+<p>GoProで動画が撮れてましたので、YouTubeに挙げました。</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBm2HzGe6rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!--本体はここまで-->
 
